@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 13 18:38:54 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1492079761199
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.commons\:commons-collections4\:jar\:4.1 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1492079934067

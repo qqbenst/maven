@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.example.demo.config</groupId>
+  <artifactId>com.example.demo.config</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170526010227</lastUpdated>
+  </versioning>
+</metadata>

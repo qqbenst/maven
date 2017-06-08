@@ -1,0 +1,28 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 25 13:35:47 CST 2017
+gluegen-rt-2.3.1-natives-linux-amd64.jar>central=
+gluegen-rt-2.3.1-natives-linux-armv6.jar>alimaven=
+gluegen-rt-2.3.1-natives-windows-i586.jar>alimaven=
+gluegen-rt-2.3.1-natives-macosx-universal.jar>alimaven=
+gluegen-rt-2.3.1-natives-android-armv6.jar>alimaven=
+gluegen-rt-2.3.1.jar>central=
+gluegen-rt-2.3.1-natives-windows-amd64.jar>alimaven=
+gluegen-rt-2.3.1-natives-android-armv6.jar>central=
+gluegen-rt-2.3.1-natives-windows-amd64.jar>central=
+gluegen-rt-2.3.1-natives-linux-armv6hf.jar>central=
+gluegen-rt-2.3.1-natives-linux-i586.jar>alimaven=
+gluegen-rt-2.3.1-natives-macosx-universal.jar>central=
+gluegen-rt-2.3.1-natives-linux-i586.jar>central=
+gluegen-rt-2.3.1-natives-solaris-amd64.jar>alimaven=
+gluegen-rt-2.3.1-natives-windows-i586.jar>central=
+gluegen-rt-2.3.1-natives-solaris-amd64.jar>central=
+gluegen-rt-2.3.1-natives-solaris-i586.jar>central=
+gluegen-rt-2.3.1-natives-linux-armv6.jar>central=
+gluegen-rt-2.3.1.jar>alimaven=
+gluegen-rt-2.3.1.pom>alimaven=
+gluegen-rt-2.3.1.pom>central=
+gluegen-rt-2.3.1-natives-linux-armv6hf.jar>alimaven=
+gluegen-rt-2.3.1-natives-android-aarch64.jar>alimaven=
+gluegen-rt-2.3.1-natives-linux-amd64.jar>alimaven=
+gluegen-rt-2.3.1-natives-solaris-i586.jar>alimaven=
+gluegen-rt-2.3.1-natives-android-aarch64.jar>central=

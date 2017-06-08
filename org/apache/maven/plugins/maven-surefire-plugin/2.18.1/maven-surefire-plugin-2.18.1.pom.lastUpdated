@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jun 05 10:38:03 CST 2017
+https\://repo.spring.io/libs-release/.lastUpdated=1496630283692
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1494843622298
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-surefire-plugin\:pom\:2.18.1 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.

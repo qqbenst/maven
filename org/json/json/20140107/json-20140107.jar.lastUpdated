@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 13 18:38:54 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1492079761210
+http\://repo.spring.io/ext-release-local/.error=Could not transfer artifact org.json\:json\:jar\:20140107 from/to spring-ext (http\://repo.spring.io/ext-release-local/)\: The operation was cancelled.
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.json\:json\:jar\:20140107 from/to spring-snapshots (http\://repo.spring.io/snapshot)\: The operation was cancelled.
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1492079934380
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.json\:json\:jar\:20140107 from/to spring-milestones (http\://repo.spring.io/milestone)\: The operation was cancelled.
+@default-spring-snapshots-http\://repo.spring.io/snapshot/.lastUpdated=1492079761241
+@default-spring-milestones-http\://repo.spring.io/milestone/.lastUpdated=1492079761231
+@default-spring-ext-http\://repo.spring.io/ext-release-local/.lastUpdated=1492079761223
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.json\:json\:jar\:20140107 from/to central (https\://repo.maven.apache.org/maven2)\: The operation was cancelled.
